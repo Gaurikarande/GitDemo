@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-02T12:12:40 IST" name="Default suite" finished-at="2020-10-02T12:12:40 IST" duration-ms="120">
+    <groups>
+    </groups>
+    <test started-at="2020-10-02T12:12:40 IST" name="Default test" finished-at="2020-10-02T12:12:40 IST" duration-ms="120">
+      <class name="rahulshettyacademy.mavenjava.apiumtest">
+        <test-method signature="Iosapp()[pri:0, instance:rahulshettyacademy.mavenjava.apiumtest@c333c60]" started-at="2020-10-02T12:12:40 IST" name="Iosapp" finished-at="2020-10-02T12:12:40 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iosapp -->
+        <test-method signature="Nativeapp()[pri:0, instance:rahulshettyacademy.mavenjava.apiumtest@c333c60]" started-at="2020-10-02T12:12:40 IST" name="Nativeapp" finished-at="2020-10-02T12:12:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nativeapp -->
+      </class> <!-- rahulshettyacademy.mavenjava.apiumtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
