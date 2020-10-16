@@ -21,5 +21,11 @@ public class seleniumTest {
 		
 		
 	}
+	public void elementsuitUX()
+	{
+		System.out.println("Eelement Suit UX");
+		
+		
+	}
 
 }
