@@ -21,6 +21,16 @@ public void twitterdelete()
 	
 	System.out.println("Twitter Delete");
 	}
+public void facebookdelete()
+{
+	
+	System.out.println("Twitter Delete");
+	}
+public void yahoodelete()
+{
+	
+	System.out.println("Twitter Delete");
+	}
 
 
 }

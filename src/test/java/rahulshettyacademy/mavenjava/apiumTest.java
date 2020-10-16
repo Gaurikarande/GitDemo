@@ -15,4 +15,8 @@ public class apiumTest
     {
         assertTrue( true );
     }
+    public void shouldAnswerWithFALSE()
+    {
+        assertTrue( false );
+    }
 }

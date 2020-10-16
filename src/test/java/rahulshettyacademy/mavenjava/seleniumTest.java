@@ -15,5 +15,11 @@ public class seleniumTest {
 		
 		
 	}
+	public void elementsuitUI()
+	{
+		System.out.println("Eelement Suit");
+		
+		
+	}
 
 }
