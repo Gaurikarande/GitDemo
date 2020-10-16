@@ -10,6 +10,10 @@ public void postjira()
 {
 	
 	System.out.println("Post Jira");
+
+	System.out.println("Post Jira1");
+
+	System.out.println("Post Jira2");
 	}
 @Test
 public void twitterdelete()
